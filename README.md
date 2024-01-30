@@ -1,2 +1,2 @@
-# funtions-js-date-pdi
+# functions-js-date-pdi
 Funções de data para usar no Apache Pentaho
